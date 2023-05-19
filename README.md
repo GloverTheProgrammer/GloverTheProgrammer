@@ -24,5 +24,5 @@ Hello, my name is David Glover, and I am a student enrolled in Computer Science 
 
 ## 📊 My GitHub Stats:
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloverTheProgrammer&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloverTheProgrammer&theme=dark)
 </p>
