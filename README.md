@@ -11,11 +11,6 @@ Hello, my name is David Glover, and I am a student enrolled in Computer Science 
 - 📫 How to reach me: You can reach me by connecting with me on my [LinkedIn](https://www.linkedin.com/in/david-glover-jr/)! 
 
 
-<p align="center">
-
- <a href="https://www.linkedin.com/in/david-glover-jr/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-
-
 <br />
 
 ## 🧰 Languages and Tools:
