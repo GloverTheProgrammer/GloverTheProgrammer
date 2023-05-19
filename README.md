@@ -15,12 +15,13 @@ Hello, my name is David Glover, and I am a student enrolled in Computer Science 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/8400fceea8c8b6f6f47cb0f246512b8f53bfa631/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/8400fceea8c8b6f6f47cb0f246512b8f53bfa631/topics/matlab/matlab.png" alt="MATLAB" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/8400fceea8c8b6f6f47cb0f246512b8f53bfa631/topics/linux/linux.png" alt="Ubuntu Linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/8400fceea8c8b6f6f47cb0f246512b8f53bfa631/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/matlab/matlab.png" alt="MATLAB" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Ubuntu Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 
 
 
