@@ -19,3 +19,10 @@ Hello, my name is David Glover, and I am a student enrolled in Computer Science 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+<br />
+
+## 📊 My GitHub Stats:
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloverTheProgrammer&theme=tokyonight)
+</p>
