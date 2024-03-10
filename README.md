@@ -13,13 +13,6 @@ Hello, my name is David Glover, and I am a student enrolled in Computer Science 
 
 <br />
 
-## 🧰 Languages and Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 
 
