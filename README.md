@@ -1,6 +1,6 @@
 ## 👋🏽 Hello! 
 
-Hello, my name is David Glover, and I am a student enrolled in Computer Science with a concentration in Articial Intelligence at Kettering University. I am currently honing my skills as a Software Engineering Co-op with General Motors. I am passionate about learning and believe that it is essential for personal and professional growth. My specific area of interest is programming, and I am constantly seeking new opportunities to improve my technical abilities. In my free time I love to read, research new technologies, and ride motorcycles.
+Hello, my name is David Glover, and I am a student enrolled in Computer Science with a concentration in Articial Intelligence at Kettering University. I am passionate about learning and believe that it is essential for personal and professional growth. My specific area of interest is programming, and I am constantly seeking new opportunities to improve my technical abilities. In my free time I love to read, research new technologies, and ride motorcycles.
 
 
 - 🔭 I’m currently working on technical interview readniess through Leetcode and other tools.
